@@ -1,0 +1,25 @@
+{
+
+  "label": "blue Aurora",
+  "package": "com.Aurora.music.qs",
+
+  "versionName": "2.0.6",
+  "versionCode": "206",
+
+  "minSdkVersion": 23,
+  "targetSdkVersion": 29,
+
+  "debugmode": false,
+  "debuggermode": 1,
+
+  "user_permission": [
+  "INTERNET",
+  "SYSTEM_ALERT_WINDOW",
+  "WRITE_EXTERNAL_STORAGE"
+  ],
+
+  "skip_compilation": [
+  
+  ]
+
+}
